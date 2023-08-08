@@ -1,0 +1,4 @@
+#Tue Aug 08 17:44:33 CEST 2023
+base.0=/Users/josejet/Projects/fi_network_flutter_jet/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
